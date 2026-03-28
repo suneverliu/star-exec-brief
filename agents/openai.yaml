@@ -1,4 +1,4 @@
 interface:
   display_name: "STAR Exec Brief"
   short_description: "Exec STAR brief from specs and changes."
-  default_prompt: "Use $star-exec-brief to produce a concise management-facing STAR project brief from the workspace specs and latest code changes."
+  default_prompt: "Use $star-exec-brief to produce a concise, business-friendly STAR project brief from the workspace specs and latest code changes."

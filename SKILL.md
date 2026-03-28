@@ -1,13 +1,13 @@
 ---
 name: star-exec-brief
-description: Generate a concise executive-facing project brief in Chinese using the STAR framework from workspace specification documents and the latest code change history. Use when Codex needs to read Spec, PRD, design, requirements, or other project docs plus recent git changes, then explain the project to non-technical management with clear business value, high-level technical actions, and measurable or decision-relevant outcomes.
+description: Generate a concise project brief in Chinese using the STAR framework from workspace specification documents and the latest code change history. Use when Codex needs to read Spec, PRD, design, requirements, or other project docs plus recent git changes, then explain the project in language that is easy for non-technical readers to understand while preserving clear business value, high-level technical actions, and measurable or decision-relevant outcomes.
 ---
 
 # Star Exec Brief
 
 ## Overview
 
-Read the current workspace, extract the project intent from specification documents and the newest implementation signals, then synthesize a management-facing project brief in Chinese.
+Read the current workspace, extract the project intent from specification documents and the newest implementation signals, then synthesize a Chinese project brief that is easy for non-technical readers to understand.
 
 Prefer business language over engineering jargon. Stay precise, concise, and evidence-based.
 
@@ -36,7 +36,7 @@ Build the document around four sections only:
 
 ## Writing Rules
 
-Write for non-technical management.
+Write for non-technical readers.
 
 - Use Chinese in the final document.
 - Keep the tone professional, concise, and business-oriented.
