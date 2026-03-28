@@ -34,13 +34,13 @@ Windows examples:
 Clone with Git / 用 Git 安装:
 
 ```powershell
-git clone https://github.com/suneverliu/star-brief.git "$env:USERPROFILE\.codex\skills\star-brief"
+git clone https://github.com/aevost/star-brief.git "$env:USERPROFILE\.codex\skills\star-brief"
 ```
 
 If you use `CODEX_HOME`:
 
 ```powershell
-git clone https://github.com/suneverliu/star-brief.git "$env:CODEX_HOME\skills\star-brief"
+git clone https://github.com/aevost/star-brief.git "$env:CODEX_HOME\skills\star-brief"
 ```
 
 Manual install / 手动安装:
